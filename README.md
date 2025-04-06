@@ -157,7 +157,7 @@ Shortly after, a file named **`browser-data-export.txt.txt`** was created and mo
 
 ### **Response Taken**
 
-**Tampermonkey-based malicious activity was confirmed on endpoint `vmgoogle-corey` by user `labuser`. The device was isolated and the user's direct manager was notified.
+Tampermonkey-based malicious activity was confirmed on endpoint `vmgoogle-corey` by user `labuser`. The device was isolated and the user's direct manager was notified.
 
 ---
 **Created By: Corey Hall**
@@ -166,5 +166,5 @@ Shortly after, a file named **`browser-data-export.txt.txt`** was created and mo
 
 **Author Contact: https://www.linkedin.com/in/corey-hall-a03337241/**
 
-Date: April 5th, 2025.**
+Date: April 5th, 2025.
 ---
